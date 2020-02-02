@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://woolushaht.chenrongjin.com/sitemap.xml
